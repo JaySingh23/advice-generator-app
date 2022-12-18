@@ -20,12 +20,12 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/64877729/208302875-5e6a8c1a-a69d-41d7-a43a-f45611f47f30.png)
+
 
 ### Links
 
@@ -39,7 +39,6 @@ First, I decided to create a container and within that put the hero section whic
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Desktop-first workflow
 - [React](https://reactjs.org/) - JS library
