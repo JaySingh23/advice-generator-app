@@ -44,6 +44,7 @@ First, I decided to create a container and within that put the hero section whic
 - Desktop-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
+- [Vite](https://vitejs.dev/) - As a module bundler
 
 
 ### What I learned
