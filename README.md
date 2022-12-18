@@ -13,8 +13,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -22,12 +20,11 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
 
-![./design/desktop-design.jpg](./design/desktop-design.jpg)
+![](./design/desktop-design.jpg)
 
 ### Links
 
@@ -41,16 +38,16 @@ First, I decided to create a container and within that put the hero section whic
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Desktop-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
+- [Vite](https://vitejs.dev/) - As a module bundler
 
 
 ### What I learned
 
-This was the first project I created using React.js. It was fun doing this project. I got to work with useState and useEffect hooks in this project which was fascinating. I also used this project to understand about styled components. As a beginner, it was confusing at start but it was worth it. I am proud of this code snippet :
+This was the first project I created using React.js. It was fun doing this project. I got to work with useState and useEffect hooks in this project which was fascinating. I also used this project to understand about styled components. I also got to know about Vite as a module bundler and so I used Vite as well. As a beginner, it was confusing at start but it was worth it. I am proud of this code snippet :
 
 To see how you can add code snippets, see below:
 
